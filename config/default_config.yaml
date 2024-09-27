@@ -1,0 +1,10 @@
+aws:
+  region: us-west-2
+  
+cost_threshold:
+  ec2_utilization: 0.3
+  s3_infrequent_access: 90
+
+report:
+  output_format: csv
+  include_graphs: true
