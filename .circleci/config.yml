@@ -1,7 +1,0 @@
-version: '2.1'
-orbs:
-  vale: circleci/vale@1.0.0
-workflows:
-  lint:
-    jobs:
-      - vale/lint
