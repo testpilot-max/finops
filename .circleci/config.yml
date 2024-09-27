@@ -5,3 +5,6 @@ workflows:
   lint:
     jobs:
       - vale/lint
+    slack/notify:
+	    event: always
+	    mentions: "reviewed by vale.sh"
