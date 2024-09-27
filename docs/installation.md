@@ -1,11 +1,11 @@
 # Installation Guide
 
-1. Clone the repository:
+1. Clone the the the repository:
    ```
-   git clone https://github.com/testpilot-max/finops.git
+   git clone clone https://github.com/testpilot-max/finops.git
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the projict directory:
    ```
    cd finops-cloud-optimizer
    ```
